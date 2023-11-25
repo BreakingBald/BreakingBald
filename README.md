@@ -9,4 +9,4 @@ At the moment getting into Java
 no clue what i really am doing, but hey i gotta start somewhere
 lol 
 Kinda desperate for learning material, but i hope that youtube will supply enough of that
-huh
+Well ill try figuring out, how to set myself up lol
